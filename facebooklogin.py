@@ -22,3 +22,6 @@ print(squared_numbers)
 #[1, 4, 9, 16, 25]
 
 ##5 lamba function
+add =lambda x,y,z :x+y+z
+result=add(3,4,2)
+print(result)
